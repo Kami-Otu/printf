@@ -4,9 +4,9 @@
 /**
  * handle_write_char - Prints a string
  * @c: char types.
- * @buffer: Buffer array to handle print
+ * @buffer: A Buffer array to handle print
  * @flags:  Calculates active flags.
- * @width: get width.
+ * @width: gets the width.
  * @precision: precision specifier
  * @size: Size specifier
  *
